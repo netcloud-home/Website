@@ -10926,3 +10926,24 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.cropped1 {
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
+    object-position: 20% 10%;
+}
+
+.cropped2 {
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
+    object-position: 0% 25%;
+}
+
+.cropped3 {
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
+    object-fit: cover;
+    object-position: 40% 25%;
+}
