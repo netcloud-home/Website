@@ -10931,7 +10931,7 @@ footer.footer {
     width: 200px; /* width of container */
     height: 200px; /* height of container */
     object-fit: cover;
-    object-position: 20% 10%;
+    object-position: 20% 0%;
 }
 
 .cropped2 {
